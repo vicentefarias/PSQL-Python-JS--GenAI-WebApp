@@ -1,0 +1,17 @@
+sqlalchemy
+transformers
+langchain
+diffusers
+Pillow  # For PIL
+TTS
+torch
+opencv-python  # For cv2
+numpy
+pypdf
+jwt
+python-jose
+aiofiles
+email-validator
+passlib
+fastapi
+pydantic
